@@ -1,0 +1,8 @@
+def intro():
+  """this function prints welcome to python"""
+  print("hello python")
+  print(intro.__doc__)
+intro()
+
+here when i run it shows the output as
+hello python & this function prints welcome to python
